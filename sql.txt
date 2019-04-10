@@ -1,5 +1,6 @@
 /*==============================================================*/
-/* Database name:  SPORT                                        */
+/ja pierdole ja pierdole
+* Database name:  SPORT                                        */
 /* DBMS name:      Sybase AS Anywhere 8                         */
 /* Created on:     19.11.2004 10:53:18                          */
 /*==============================================================*/
